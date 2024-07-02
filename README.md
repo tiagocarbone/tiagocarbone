@@ -1,6 +1,6 @@
 
 ## Hi everyone! I´m Tiago and I´m in carrer transition
--I´m always studying to become a better developer 
+-I´m always studying to become a better developer <br>
 -Actually my hobbies are go the gym and watch my favoritebsoccer team play at Maracanã Stadium
 
 
