@@ -1,11 +1,16 @@
 
 ## Hi everyone! I´m Tiago and I´m in carrer transition
--I am always studying to become a better developer <br>
--Actually my hobbies are go the gym and watch my favorite soccer team play at Maracanã Stadium
+-I am always studying to become a better developer 
+<br>
+-Actually my hobbies are go the gym, watch my favorite soccer team play at Maracanã Stadium and read books 
+<br>
+- 25 years old
+<br>
+-Rio de Janeiro, Brasil
 
 
 
-<div align="center">
+< div align="center">
   <a href="https://github.com/tiagocarbone">
   <img height=180em" src="https://github-readme-stats.vercel.app/api?username=tiagocarbone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarbone&layout=compact&langs_count=7&theme=dark"/>
