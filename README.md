@@ -5,7 +5,6 @@
 
 </div>
 
-- In carrer transition
 - I am always studying to become a better developer 
 - Actually my hobbies are go the gym, watch my favorite soccer team play at Maracanã Stadium and read books 
 - 25 years old
